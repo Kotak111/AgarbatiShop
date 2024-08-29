@@ -1,0 +1,584 @@
+@media only  screen and (max-width:600px) {
+     /* card ui start */
+     .card-main{
+        margin-top: 20%;
+    }
+    .card{
+        width: 80%;
+        margin-left: 30px;
+    }
+    .card-image{
+        width: 100%;
+        height: 200px;
+    }
+    .blogs{
+        margin-top: 10%;
+    }
+    .our-blog{
+        font-family: yes;
+        color: black;
+        font-weight: bold;
+        text-shadow: 3px 3px 3px wheat;
+    }
+    @font-face {
+        font-family: yes;
+        src: url("../layout/designer_2/Designer.otf");
+    }
+    .card-title{
+        font-weight: bold;
+        color: chocolate;
+        font-size: 25px;
+        font-family: cursive;
+    }
+    .card-text{
+        font-size: 15px;
+        text-align: justify;
+        font-weight: 400;
+    }
+
+    /* card ui end */
+     /* Counter items start */
+     .counter-main{
+        margin-top: 10%;
+    }
+    .newag-img{
+        width: 90%;
+        height: 300px;
+        margin-left: 6%;
+        
+    }
+    .new-img{
+        margin-left: 8%;
+    }
+    .success-point{
+        font-family: newdata;
+        color: black;
+        font-weight: bold;
+        text-shadow: 3px 3px 3px wheat;
+    }
+    @font-face {
+        font-family: newdata;
+        src: url("../layout/designer_2/Designer.otf");
+    }
+    .co-main-1{
+        margin-top: 10%;
+    }
+    .counter-text{
+        font-size: 30px;
+    }
+    .dec-co{
+        color: slateblue;
+        font-weight: bold;
+    }
+    /* Counter items end */
+
+    /* contact page start */
+    .contact-text{
+        margin-top: 7%;
+        margin-left: 6%;
+        font-family: contact;
+        color: black;
+        font-weight: bold;
+        text-shadow: 3px 3px 3px wheat;
+        text-decoration: underline;
+    }
+    @font-face {
+        font-family: contact;
+        src: url("../layout/designer_2/Designer.otf");
+    }
+    .map{
+        border: 0;
+        width: 90%;
+        height: 270px;
+        margin-top: 6%;
+       
+    }
+    .action-i{
+        margin-left: 12%;
+        margin-top: 5%;
+    }
+    .action-text{
+        font-size: 30px;
+   
+    }
+    .p-action{
+        margin-left: 7%;
+        font-size: 17px;
+        font-weight: 400;
+    }
+    .in-text{
+        width: 45%;
+    }
+    .in-text-1{
+        width: 100%;
+    }
+    /* contact page end */
+}
+@media only screen and (min-width:600px) {
+      /* card ui start */
+      .card-main{
+        margin-top: 20%;
+    }
+    .card{
+        width: 80%;
+        margin-left: 30px;
+    }
+    .card-image{
+        width: 100%;
+        height: 200px;
+    }
+    .blogs{
+        margin-top: 10%;
+    }
+    .our-blog{
+        font-family: yes;
+        color: black;
+        font-weight: bold;
+        text-shadow: 3px 3px 3px wheat;
+    }
+    @font-face {
+        font-family: yes;
+        src: url("../layout/designer_2/Designer.otf");
+    }
+    .card-title{
+        font-weight: bold;
+        color: chocolate;
+        font-size: 25px;
+        font-family: cursive;
+    }
+    .card-text{
+        font-size: 15px;
+        text-align: justify;
+        font-weight: 400;
+    }
+
+    /* card ui end */
+     /* Counter items start */
+     .counter-main{
+        margin-top: 10%;
+    }
+    /* .newag-img{
+        width: 90%;
+        height: 300px;
+        margin-left: 6%;
+        
+    } */
+    /* .new-img{
+        margin-left: 8%;
+    } */
+    .success-point{
+        font-family: newdata;
+        color: black;
+        font-weight: bold;
+        text-shadow: 3px 3px 3px wheat;
+     
+    }
+    @font-face {
+        font-family: newdata;
+        src: url("../layout/designer_2/Designer.otf");
+    }
+    .co-main-1{
+        margin-top: 10%;
+    }
+    .counter-text{
+        font-size: 30px;
+    }
+    .dec-co{
+        color: slateblue;
+        font-weight: bold;
+    }
+    /* Counter items end */
+    /* contact page start */
+    .contact-text{
+        margin-top: 7%;
+        margin-left: 6%;
+        font-family: contact;
+        color: black;
+        font-weight: bold;
+        text-shadow: 3px 3px 3px wheat;
+        text-decoration: underline;
+    }
+    @font-face {
+        font-family: contact;
+        src: url("../layout/designer_2/Designer.otf");
+    }
+    .map{
+        border: 0;
+        width: 90%;
+        height: 270px;
+        margin-top: 6%;
+       
+    }
+    .action-i{
+        margin-left: 12%;
+        margin-top: 5%;
+    }
+    .action-text{
+        font-size: 30px;
+   
+    }
+    .p-action{
+        margin-left: 7%;
+        font-size: 17px;
+        font-weight: 400;
+    }
+    .in-text{
+        width: 45%;
+    }
+    .in-text-1{
+        width: 100%;
+    }
+    /* contact page end */
+    
+}
+@media only screen and (min-width:762px) {
+     /* card ui start */
+     .card-main{
+        margin-top: 20%;
+    }
+    .card{
+        width: 92%;
+        margin-left: 17px;
+    }
+    .card-image{
+        width: 100%;
+        height: 200px;
+    }
+    .blogs{
+        margin-top: 10%;
+    }
+    .our-blog{
+        font-family: yes;
+        color: black;
+        font-weight: bold;
+        text-shadow: 3px 3px 3px wheat;
+    }
+    @font-face {
+        font-family: yes;
+        src: url("../layout/designer_2/Designer.otf");
+    }
+    .card-title{
+        font-weight: bold;
+        color: chocolate;
+        font-size: 25px;
+        font-family: cursive;
+    }
+    .card-text{
+        font-size: 15px;
+        text-align: justify;
+        font-weight: 400;
+    }
+
+    /* card ui end */
+     /* Counter items start */
+     .counter-main{
+        margin-top: 10%;
+    }
+    .newag-img{
+        width: 90%;
+        height: 300px;
+        margin-left: 6%;
+        
+    }
+    /* .new-img{
+        margin-left: 8%;
+    } */
+    .success-point{
+        font-family: newdata;
+        color: black;
+        font-weight: bold;
+        text-shadow: 3px 3px 3px wheat;
+     
+    }
+    @font-face {
+        font-family: newdata;
+        src: url("../layout/designer_2/Designer.otf");
+    }
+    .co-main-1{
+        margin-top: 10%;
+    }
+    .counter-text{
+        font-size: 30px;
+    }
+    .dec-co{
+        color: slateblue;
+        font-weight: bold;
+    }
+    /* Counter items end */
+    /* contact page start */
+    .contact-text{
+        margin-top: 7%;
+        margin-left: 6%;
+        font-family: contact;
+        color: black;
+        font-weight: bold;
+        text-shadow: 3px 3px 3px wheat;
+        text-decoration: underline;
+    }
+    @font-face {
+        font-family: contact;
+        src: url("../layout/designer_2/Designer.otf");
+    }
+    .map{
+        border: 0;
+        width: 90%;
+        height: 270px;
+        margin-top: 6%;
+       
+    }
+    .action-i{
+        margin-left: 12%;
+        margin-top: 5%;
+    }
+    .action-text{
+        font-size: 30px;
+   
+    }
+    .p-action{
+        margin-left: 7%;
+        font-size: 17px;
+        font-weight: 400;
+    }
+    .in-text{
+        width: 45%;
+    }
+    .in-text-1{
+        width: 100%;
+    }
+    /* contact page end */
+}
+@media only screen and (min-width:992px) {
+    /* card ui start */
+    .card-main{
+        margin-top: 20%;
+    }
+    .card{
+        width: 94%;
+        margin-left: 10px;
+    }
+    .card-image{
+        width: 100%;
+        height: 200px;
+    }
+    .blogs{
+        margin-top: 10%;
+    }
+    .our-blog{
+        font-family: yes;
+        color: black;
+        font-weight: bold;
+        text-shadow: 3px 3px 3px wheat;
+    }
+    @font-face {
+        font-family: yes;
+        src: url("../layout/designer_2/Designer.otf");
+    }
+    .card-title{
+        font-weight: bold;
+        color: chocolate;
+        font-size: 25px;
+        font-family: cursive;
+    }
+    .card-text{
+        font-size: 15px;
+        text-align: justify;
+        font-weight: 400;
+    }
+
+    /* card ui end */
+
+
+
+    /* Counter items start */
+    .counter-main{
+        margin-top: 10%;
+    }
+    .newag-img{
+        width: 70%;
+        height: 400px;
+        margin-left: 16%;
+    }
+    .success-point{
+        font-family: newdata;
+        color: black;
+        font-weight: bold;
+        text-shadow: 3px 3px 3px wheat;
+    }
+    @font-face {
+        font-family: newdata;
+        src: url("../layout/designer_2/Designer.otf");
+    }
+    .co-main-1{
+        margin-top: 10%;
+    }
+    .counter-text{
+        font-size: 30px;
+    }
+    .dec-co{
+        color: slateblue;
+        font-weight: bold;
+    }
+    /* Counter items end */
+
+
+
+    /* contact page start */
+    .contact-text{
+        margin-top: 7%;
+        margin-left: 6%;
+        font-family: contact;
+        color: black;
+        font-weight: bold;
+        text-shadow: 3px 3px 3px wheat;
+        text-decoration: underline;
+    }
+    @font-face {
+        font-family: contact;
+        src: url("../layout/designer_2/Designer.otf");
+    }
+    .map{
+        border: 0;
+        width: 90%;
+        height: 270px;
+        margin-top: 6%;
+       
+    }
+    .action-i{
+        margin-left: 23%;
+        margin-top: 5%;
+    }
+    .action-text{
+        font-size: 30px;
+   
+    }
+    .p-action{
+        margin-left: 7%;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    .in-text{
+        width: 42%;
+    }
+    .in-text-1{
+        width: 90%;
+    }
+    /* contact page end */
+}
+@media only  screen and (min-width:1200px) {
+
+    /* card ui start */
+    .card-main{
+        margin-top: 20%;
+    }
+    .card{
+        width: 80%;
+        margin-left: 30px;
+    }
+    .card-image{
+        width: 100%;
+        height: 200px;
+    }
+    .blogs{
+        margin-top: 10%;
+    }
+    .our-blog{
+        font-family: yes;
+        color: black;
+        font-weight: bold;
+        text-shadow: 3px 3px 3px wheat;
+    }
+    @font-face {
+        font-family: yes;
+        src: url("../layout/designer_2/Designer.otf");
+    }
+    .card-title{
+        font-weight: bold;
+        color: chocolate;
+        font-size: 25px;
+        font-family: cursive;
+    }
+    .card-text{
+        font-size: 15px;
+        text-align: justify;
+        font-weight: 400;
+    }
+
+    /* card ui end */
+
+
+
+    /* Counter items start */
+    .counter-main{
+        margin-top: 10%;
+    }
+    .newag-img{
+        width: 70%;
+        height: 400px;
+        margin-left: 16%;
+    }
+    .success-point{
+        font-family: newdata;
+        color: black;
+        font-weight: bold;
+        text-shadow: 3px 3px 3px wheat;
+    }
+    @font-face {
+        font-family: newdata;
+        src: url("../layout/designer_2/Designer.otf");
+    }
+    .co-main-1{
+        margin-top: 10%;
+    }
+    .counter-text{
+        font-size: 30px;
+    }
+    .dec-co{
+        color: slateblue;
+        font-weight: bold;
+    }
+    /* Counter items end */
+
+
+
+    /* contact page start */
+    .contact-text{
+        margin-top: 7%;
+        margin-left: 6%;
+        font-family: contact;
+        color: black;
+        font-weight: bold;
+        text-shadow: 3px 3px 3px wheat;
+        text-decoration: underline;
+    }
+    @font-face {
+        font-family: contact;
+        src: url("../layout/designer_2/Designer.otf");
+    }
+    .map{
+        border: 0;
+        width: 90%;
+        height: 270px;
+        margin-top: 6%;
+       
+    }
+    .action-i{
+        margin-left: 23%;
+        margin-top: 5%;
+    }
+    .action-text{
+        font-size: 30px;
+   
+    }
+    .p-action{
+        margin-left: 7%;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    .in-text{
+        width: 42%;
+    }
+    .in-text-1{
+        width: 90%;
+    }
+    /* contact page end */
+}

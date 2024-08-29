@@ -1,0 +1,445 @@
+@media only screen and (max-width:600px) {
+    .footer-main {
+        width: 100%;
+        height: auto;
+        background-color: rgb(30, 5, 5);
+        margin-top: 10%;
+    }
+
+    .footer-header {
+        width: 100%;
+        height: 60px;
+        background-color: #B1DDF1;
+        position: relative;
+    }
+
+    .get-connect {
+        position: absolute;
+        top: 18px;
+        left: 15px;
+        text-transform: capitalize;
+        font-weight: 400;
+        display: none;
+    }
+
+    .footer-icon {
+        /* float: right !important; */
+        letter-spacing: 25px;
+        font-size: 19px;
+        margin-top: 17px;
+        text-align: center;
+        padding: 15px;
+
+    }
+
+    .footer-i {
+        color: black;
+    }
+
+    .footer-main-hed {
+        margin-left: 18%;
+        margin-top: 9%;
+        text-transform: uppercase;
+        font-family: cursive;
+        color: white;
+        opacity: 0.9;
+    }
+
+    .company {
+        color: silver;
+        width: 55%;
+        margin-left: 18%;
+        text-transform: capitalize;
+    }
+
+    .footer-category-links {
+        line-height: 15px;
+        margin-left: 18%;
+        color: silver;
+    }
+
+    .links-st {
+        text-decoration: none !important;
+        color: silver;
+        font-size: 16px;
+    }
+
+    .links-st:hover {
+        color: white;
+        font-weight: bold;
+        text-decoration: underline !important;
+    }
+
+    .address-data {
+        margin-left: 18%;
+        line-height: 35px;
+
+
+    }
+
+    .address-data-profile {
+        color: silver;
+    }
+    .last-footer-header{
+        width: 100%;
+        height: 40px;
+        background-color: 	#454545;
+    }
+
+}
+
+@media only screen and (min-width:600px) {
+    .footer-main {
+        width: 100%;
+        height: auto;
+        background-color: rgb(30, 5, 5);
+        margin-top: 10%;
+    }
+
+    .footer-header {
+        width: 100%;
+        height: 60px;
+        background-color: #B1DDF1;
+        position: relative;
+    }
+
+    .get-connect {
+        position: absolute;
+        top: 18px;
+        left: 15px;
+        text-transform: capitalize;
+        font-weight: 400;
+        display: none;
+    }
+
+    .footer-icon {
+        /* float: right !important; */
+        letter-spacing: 25px;
+        font-size: 19px;
+        margin-top: 17px;
+        text-align: center;
+        padding: 15px;
+
+    }
+
+    .footer-i {
+        color: black;
+    }
+
+    .footer-main-hed {
+        margin-left: 18%;
+        margin-top: 9%;
+        text-transform: uppercase;
+        font-family: cursive;
+        color: white;
+        opacity: 0.9;
+    }
+
+    .company {
+        color: silver;
+        width: 55%;
+        margin-left: 18%;
+        text-transform: capitalize;
+    }
+
+    .footer-category-links {
+        line-height: 15px;
+        margin-left: 18%;
+        color: silver;
+    }
+
+    .links-st {
+        text-decoration: none !important;
+        color: silver;
+        font-size: 16px;
+    }
+
+    .links-st:hover {
+        color: white;
+        font-weight: bold;
+        text-decoration: underline !important;
+    }
+
+    .address-data {
+        margin-left: 18%;
+        line-height: 35px;
+
+
+    }
+
+    .address-data-profile {
+        color: silver;
+    }
+    .last-footer-header{
+        width: 100%;
+        height: 40px;
+        background-color: 	#454545;
+    }
+
+}
+
+@media only screen and (min-width:768px) {
+    .footer-main {
+        width: 100%;
+        height: auto;
+        background-color: rgb(30, 5, 5);
+        margin-top: 10%;
+    }
+
+    .footer-header {
+        width: 100%;
+        height: 60px;
+        background-color: #B1DDF1;
+        position: relative;
+    }
+
+    .get-connect {
+        position: absolute;
+        top: 18px;
+        left: 15px;
+        text-transform: capitalize;
+        font-weight: 400;
+        display: none;
+    }
+
+    .footer-icon {
+        /* float: right !important; */
+        letter-spacing: 25px;
+        font-size: 19px;
+        margin-top: 17px;
+        text-align: center;
+        padding: 15px;
+
+    }
+
+    .footer-i {
+        color: black;
+    }
+
+    .footer-main-hed {
+        margin-left: 18%;
+        margin-top: 9%;
+        text-transform: uppercase;
+        font-family: cursive;
+        color: white;
+        opacity: 0.9;
+    }
+
+    .company {
+        color: silver;
+        width: 55%;
+        margin-left: 18%;
+        text-transform: capitalize;
+    }
+
+    .footer-category-links {
+        line-height: 15px;
+        margin-left: 18%;
+        color: silver;
+    }
+
+    .links-st {
+        text-decoration: none !important;
+        color: silver;
+        font-size: 16px;
+    }
+
+    .links-st:hover {
+        color: white;
+        font-weight: bold;
+        text-decoration: underline !important;
+    }
+
+    .address-data {
+        margin-left: 18%;
+        line-height: 35px;
+
+
+    }
+
+    .address-data-profile {
+        color: silver;
+    }
+    .last-footer-header{
+        width: 100%;
+        height: 40px;
+        background-color: 	#454545;
+    }
+
+}
+
+
+@media only screen and (min-width:992px) {
+    .footer-main {
+        width: 100%;
+        height: auto;
+        background-color: rgb(30, 5, 5);
+        margin-top: 10%;
+    }
+
+    .footer-header {
+        width: 100%;
+        height: 60px;
+        background-color: #B1DDF1;
+        position: relative;
+    }
+
+    .get-connect {
+        position: absolute;
+        top: 18px;
+        left: 15px;
+        text-transform: capitalize;
+        font-weight: 400;
+        display: block;
+    }
+
+    .footer-icon {
+        float: right !important;
+        letter-spacing: 25px;
+        font-size: 19px;
+        margin-top: 0px;
+
+    }
+
+    .footer-i {
+        color: black;
+    }
+
+    .footer-main-hed {
+        margin-left: 18%;
+        margin-top: 9%;
+        text-transform: uppercase;
+        font-family: cursive;
+        color: white;
+        opacity: 0.9;
+    }
+
+    .company {
+        color: silver;
+        width: 55%;
+        margin-left: 18%;
+        text-transform: capitalize;
+    }
+
+    .footer-category-links {
+        line-height: 15px;
+        margin-left: 18%;
+        color: silver;
+    }
+
+    .links-st {
+        text-decoration: none !important;
+        color: silver;
+        font-size: 16px;
+    }
+
+    .links-st:hover {
+        color: white;
+        font-weight: bold;
+        text-decoration: underline !important;
+    }
+
+    .address-data {
+        margin-left: 18%;
+        line-height: 35px;
+
+
+    }
+
+    .address-data-profile {
+        color: silver;
+    }
+    .last-footer-header{
+        width: 100%;
+        height: 40px;
+        background-color: 	#454545;
+    }
+}
+
+@media only screen and (min-width:1200px) {
+    .footer-main {
+        width: 100%;
+        height: auto;
+        background-color: rgb(30, 5, 5);
+        margin-top: 10%;
+    }
+
+    .footer-header {
+        width: 100%;
+        height: 60px;
+        background-color: #B1DDF1;
+        position: relative;
+    }
+
+    .get-connect {
+        position: absolute;
+        top: 18px;
+        left: 15px;
+        text-transform: capitalize;
+        font-weight: 400;
+        display: block;
+    }
+
+    .footer-icon {
+        float: right !important;
+        letter-spacing: 25px;
+        font-size: 19px;
+        margin-top: 0px;
+
+    }
+
+    .footer-i {
+        color: black;
+    }
+
+    .footer-main-hed {
+        margin-left: 18%;
+        margin-top: 9%;
+        text-transform: uppercase;
+        font-family: cursive;
+        color: white;
+        opacity: 0.9;
+    }
+
+    .company {
+        color: silver;
+        width: 55%;
+        margin-left: 18%;
+        text-transform: capitalize;
+    }
+
+    .footer-category-links {
+        line-height: 15px;
+        margin-left: 18%;
+        color: silver;
+    }
+
+    .links-st {
+        text-decoration: none !important;
+        color: silver;
+        font-size: 16px;
+    }
+
+    .links-st:hover {
+        color: white;
+        font-weight: bold;
+        text-decoration: underline !important;
+    }
+
+    .address-data {
+        margin-left: 18%;
+        line-height: 35px;
+
+
+    }
+
+    .address-data-profile {
+        color: silver;
+    }
+    .last-footer-header{
+        width: 100%;
+        height: 40px;
+        background-color: 	#454545;
+    }
+
+}

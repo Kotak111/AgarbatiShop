@@ -1,0 +1,1045 @@
+@media only screen and (max-width:600px) {
+    nav {
+        background-color: black
+    }
+
+    .nav-link {
+        color: white !important;
+        font-size: 18px !important;
+        opacity: 0.7;
+    }
+
+    .nav-link:hover {
+        color: aqua !important;
+        border-radius: 20px;
+        font-weight: bold;
+        text-shadow: 4px 4px 4px orange;
+    }
+
+    .navbar-brand {
+        color: red !important;
+        font-family: yes !important;
+        font-weight: bold;
+        font-size: 23px;
+        text-shadow: rgb(0, 170, 255) 1px 0 19px !important;
+    }
+
+    @font-face {
+        font-family: yes;
+        src: url("../layout/godofwar/GODOFWAR.TTF");
+    }
+
+    .dropdown:hover .dropdown-menu {
+        display: block !important;
+    }
+
+    .dropdown-menu {
+        background-color: whitesmoke;
+        border-radius: 15px;
+    }
+
+    .dropdown-item {
+        color: black !important;
+        font-size: 15px !important;
+        text-align: center;
+        font-size: 15px;
+    }
+
+    .nav-item {
+        margin-left: 8%;
+    }
+
+    .dropdown-item:hover {
+        background-color: pink;
+        color: red !important;
+        border-radius: 10px;
+    }
+
+    .navbar-nav {
+        margin-left: 21%;
+    }
+
+    .icon {
+        /* margin-left: 0px !important; */
+        font-size: 32px;
+    }
+
+    .hed-i:hover {
+        color: aqua !important;
+        font-weight: bold;
+    }
+
+    .navbar-toggler-icon {
+        background-color: whitesmoke;
+        padding: 10px;
+        border-radius: 10px;
+        height: 40px;
+        width: 40px;
+    }
+
+    /* home slider css */
+    .home-image {
+        background-image: url(https://www.theimagecompany.in/uploads/theimagecompanycom/Sarathi1.jpg);
+        width: 100%;
+        height: 615px;
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        margin-top: 81px;
+        position: relative;
+        background-color: rgba(0, 0, 0, 0.4);
+        background-blend-mode: darken;
+    }
+
+    .App {
+        text-align: center;
+    }
+
+    .App-header {
+        min-height: 92vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        font-size: 38px;
+        color: tomato;
+        font-weight: bold;
+    }
+
+    /* home slider css end */
+
+
+
+
+    /* home second part css start */
+    .second-part {
+        margin-top: 7%;
+    }
+
+    .second-part-image {
+
+        height: 450px !important;
+        width: 85% !important;
+        margin-left: 10%;
+    }
+
+    .success-header {
+        margin-top: 6%;
+        margin-left: 10%;
+    }
+
+    .success-point {
+        margin-top: 10%;
+        text-transform: capitalize;
+        font-family: demo !important;
+        color: black;
+        font-weight: bold;
+        text-shadow: 3px 3px 3px wheat;
+
+    }
+
+    @font-face {
+        font-family: demo;
+        src: url("../layout/designer_2/Designer.otf");
+    }
+
+    .icon-size {
+        font-size: 25px;
+        line-height: 60px;
+        font-style: italic;
+    }
+
+    .icon-dec {
+        font-size: 23px;
+        text-transform: capitalize;
+        font-family: 'Times New Roman', Times, serif;
+        width: 50% !important;
+        line-height: 40px;
+        color: black;
+        opacity: 0.7;
+
+    }
+
+    /* home second part css end  */
+    /* slider part start */
+    .swiper {
+        width: 90%;
+        height: 100%;
+        margin-top: 70px;
+        display: flex;
+
+    }
+
+    .swiper-slide {
+        text-align: center;
+        font-size: 18px;
+        background: #fff;
+
+        /* Center slide text vertically */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .swiper-slide img {
+        display: block;
+        width: 100%;
+        height: 200px;
+        object-fit: cover;
+
+    }
+
+    .pro-our {
+        margin-top: 10%;
+        text-transform: capitalize;
+        font-family: um !important;
+        color: black;
+        font-weight: bold;
+        text-shadow: 3px 3px 3px wheat;
+    }
+
+    @font-face {
+        font-family: um;
+        src: url("../layout/designer_2/Designer.otf");
+    }
+
+    /* slider part end */
+}
+
+@media only screen and (min-width:600px) {
+    nav {
+        background-color: black
+    }
+
+    .nav-link {
+        color: white !important;
+        font-size: 18px !important;
+        opacity: 0.7;
+    }
+
+    .nav-link:hover {
+        color: aqua !important;
+        border-radius: 20px;
+        font-weight: bold;
+        text-shadow: 4px 4px 4px orange;
+    }
+
+    .navbar-brand {
+        color: red !important;
+        font-family: yes !important;
+        font-weight: bold;
+        font-size: 20px;
+        text-shadow: rgb(0, 170, 255) 1px 0 19px !important;
+    }
+
+    @font-face {
+        font-family: yes;
+        src: url("../layout/godofwar/GODOFWAR.TTF");
+    }
+
+    .dropdown:hover .dropdown-menu {
+        display: block !important;
+    }
+
+    .dropdown-menu {
+        background-color: whitesmoke;
+        border-radius: 15px;
+    }
+
+    .dropdown-item {
+        color: black !important;
+        font-size: 15px !important;
+        text-align: center;
+        font-size: 15px;
+    }
+
+    .nav-item {
+        margin-left: 8%;
+    }
+
+    .dropdown-item:hover {
+        background-color: pink;
+        color: red !important;
+        border-radius: 10px;
+    }
+
+    .navbar-nav {
+        margin-left: 21%;
+    }
+
+    .icon {
+        /* margin-left: 0px !important; */
+        font-size: 32px;
+    }
+
+    .hed-i:hover {
+        color: aqua !important;
+        font-weight: bold;
+    }
+
+    .navbar-toggler-icon {
+        background-color: whitesmoke;
+        padding: 10px;
+        border-radius: 10px;
+        height: 40px;
+        width: 40px;
+    }
+
+    /* home slider css */
+    .home-image {
+        background-image: url(https://www.theimagecompany.in/uploads/theimagecompanycom/Sarathi1.jpg);
+        width: 100%;
+        height: 615px;
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        margin-top: 81px;
+        position: relative;
+        background-color: rgba(0, 0, 0, 0.4);
+        background-blend-mode: darken;
+    }
+
+    .App {
+        text-align: center;
+    }
+
+    .App-header {
+        min-height: 92vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        font-size: 38px;
+        color: tomato;
+        font-weight: bold;
+    }
+
+    /* home slider css end */
+
+
+
+
+    /* home second part css start */
+    .second-part {
+        margin-top: 7%;
+    }
+
+    .second-part-image {
+
+        height: 450px !important;
+        width: 85% !important;
+        margin-left: 5%;
+    }
+
+    .success-header {
+        margin-top: 6%;
+        margin-left: 0%;
+    }
+
+    .success-point {
+        margin-top: 10%;
+        text-transform: capitalize;
+        font-family: demo !important;
+        color: black;
+        font-weight: bold;
+        text-shadow: 3px 3px 3px wheat;
+
+    }
+
+    @font-face {
+        font-family: demo;
+        src: url("../layout/designer_2/Designer.otf");
+    }
+
+    .icon-size {
+        font-size: 25px;
+        line-height: 60px;
+        font-style: italic;
+    }
+
+    .icon-dec {
+        font-size: 20px;
+        text-transform: capitalize;
+        font-family: 'Times New Roman', Times, serif;
+        width: 10% !important;
+        line-height: 40px;
+        color: black;
+        opacity: 0.7;
+
+    }
+
+
+
+
+    /* home second part css end  */
+    /* slider part start */
+    .swiper {
+        width: 95%;
+        height: 100%;
+        margin-top: 70px;
+        display: flex;
+        margin-left: 30px !important;
+
+    }
+
+    .swiper-slide {
+        text-align: center;
+        font-size: 18px;
+        background: #fff;
+
+        /* Center slide text vertically */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .swiper-slide img {
+        display: block;
+        width: 95%;
+        height: 200px;
+        object-fit: cover;
+
+    }
+
+    .pro-our {
+        margin-top: 10%;
+        text-transform: capitalize;
+        font-family: um !important;
+        color: black;
+        font-weight: bold;
+        text-shadow: 3px 3px 3px wheat;
+    }
+
+    @font-face {
+        font-family: um;
+        src: url("../layout/designer_2/Designer.otf");
+    }
+
+    /* slider part end */
+}
+
+@media only screen and (min-width:768px) {
+    nav {
+        background-color: black
+    }
+
+    .nav-link {
+        color: white !important;
+        font-size: 18px !important;
+        opacity: 0.7;
+    }
+
+    .nav-link:hover {
+        color: aqua !important;
+        border-radius: 20px;
+        font-weight: bold;
+        text-shadow: 4px 4px 4px orange;
+    }
+
+    .navbar-brand {
+        color: red !important;
+        font-family: yes !important;
+        font-weight: bold;
+        font-size: 23px;
+        text-shadow: rgb(0, 170, 255) 1px 0 19px !important;
+    }
+
+    @font-face {
+        font-family: yes;
+        src: url("../layout/godofwar/GODOFWAR.TTF");
+    }
+
+    .dropdown:hover .dropdown-menu {
+        display: block !important;
+    }
+
+    .dropdown-menu {
+        background-color: whitesmoke;
+        border-radius: 15px;
+    }
+
+    .dropdown-item {
+        color: black !important;
+        font-size: 15px !important;
+        text-align: center;
+        font-size: 15px;
+    }
+
+    .nav-item {
+        margin-left: 8%;
+    }
+
+    .dropdown-item:hover {
+        background-color: pink;
+        color: red !important;
+        border-radius: 10px;
+    }
+
+    .navbar-nav {
+        margin-left: 21%;
+    }
+
+    .icon {
+        /* margin-left: 0px !important; */
+        font-size: 32px;
+    }
+
+    .hed-i:hover {
+        color: aqua !important;
+        font-weight: bold;
+    }
+
+    .navbar-toggler-icon {
+        background-color: whitesmoke;
+        padding: 10px;
+        border-radius: 10px;
+        height: 40px;
+        width: 40px;
+    }
+
+    /* home slider css */
+    .home-image {
+        background-image: url(https://www.theimagecompany.in/uploads/theimagecompanycom/Sarathi1.jpg);
+        width: 100%;
+        height: 615px;
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        margin-top: 81px;
+        position: relative;
+        background-color: rgba(0, 0, 0, 0.4);
+        background-blend-mode: darken;
+    }
+
+    .App {
+        text-align: center;
+    }
+
+    .App-header {
+        min-height: 92vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        font-size: 38px;
+        color: tomato;
+        font-weight: bold;
+    }
+
+    /* home slider css end */
+
+
+
+
+    /* home second part css start */
+    .second-part {
+        margin-top: 7%;
+    }
+
+    .second-part-image {
+
+        height: 450px !important;
+        width: 85% !important;
+        margin-left: 10%;
+    }
+
+    .success-header {
+        margin-top: 6%;
+        margin-left: 10%;
+    }
+
+    .success-point {
+        margin-top: 10%;
+        text-transform: capitalize;
+        font-family: demo !important;
+        color: black;
+        font-weight: bold;
+        text-shadow: 3px 3px 3px wheat;
+
+    }
+
+    @font-face {
+        font-family: demo;
+        src: url("../layout/designer_2/Designer.otf");
+    }
+
+    .icon-size {
+        font-size: 25px;
+        line-height: 60px;
+        font-style: italic;
+    }
+
+    .icon-dec {
+        font-size: 23px;
+        text-transform: capitalize;
+        font-family: 'Times New Roman', Times, serif;
+        width: 50% !important;
+        line-height: 40px;
+        color: black;
+        opacity: 0.7;
+
+    }
+
+
+
+
+    /* home second part css end  */
+    /* slider part start */
+    .swiper {
+        width: 95%;
+        height: 100%;
+        margin-top: 70px;
+        display: flex;
+        margin-left: 30px !important;
+
+    }
+
+    .swiper-slide {
+        text-align: center;
+        font-size: 18px;
+        background: #fff;
+
+        /* Center slide text vertically */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .swiper-slide img {
+        display: block;
+        width: 95%;
+        height: 200px;
+        object-fit: cover;
+
+    }
+
+    .pro-our {
+        margin-top: 10%;
+        text-transform: capitalize;
+        font-family: um !important;
+        color: black;
+        font-weight: bold;
+        text-shadow: 3px 3px 3px wheat;
+    }
+
+    @font-face {
+        font-family: um;
+        src: url("../layout/designer_2/Designer.otf");
+    }
+
+    /* slider part end */
+}
+
+@media only screen and (min-width:992px) {
+    nav {
+        background-color: black
+    }
+
+    .nav-link {
+        color: white !important;
+        font-size: 18px !important;
+        opacity: 0.7;
+    }
+
+    .nav-link:hover {
+        color: aqua !important;
+        border-radius: 20px;
+        font-weight: bold;
+        text-shadow: 4px 4px 4px orange;
+    }
+
+    .navbar-brand {
+        color: red !important;
+        font-family: yes !important;
+        font-weight: bold;
+        font-size: 25px;
+        text-shadow: rgb(0, 170, 255) 1px 0 19px !important;
+    }
+
+    @font-face {
+        font-family: yes;
+        src: url("../layout/godofwar/GODOFWAR.TTF");
+    }
+
+    .dropdown:hover .dropdown-menu {
+        display: block !important;
+    }
+
+    .dropdown-menu {
+        background-color: whitesmoke;
+        border-radius: 15px;
+    }
+
+    .dropdown-item {
+        color: black !important;
+        font-size: 15px !important;
+        text-align: center;
+        font-size: 15px;
+    }
+
+    .nav-item {
+        margin-left: 2%;
+    }
+
+    .dropdown-item:hover {
+        background-color: pink;
+        color: red !important;
+        border-radius: 10px;
+    }
+
+    .navbar-nav {
+        margin-left: 21%;
+    }
+
+    .icon {
+        margin-left: 10px !important;
+        font-size: 32px;
+    }
+
+    .hed-i:hover {
+        color: aqua !important;
+        font-weight: bold;
+    }
+
+    /* home slider css */
+    .home-image {
+        background-image: url(https://www.theimagecompany.in/uploads/theimagecompanycom/Sarathi1.jpg);
+        width: 100%;
+        height: 615px;
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        margin-top: 80px;
+        position: relative;
+        background-color: rgba(0, 0, 0, 0.4);
+        background-blend-mode: darken;
+    }
+
+    .App {
+        text-align: center;
+    }
+
+    .App-header {
+        min-height: 92vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        font-size: 48px;
+        color: tomato;
+        font-weight: bold;
+    }
+
+    /* home slider css end */
+
+
+
+
+    /* home second part css start */
+    .second-part {
+        margin-top: 7%;
+    }
+
+    .second-part-image {
+
+        height: 450px !important;
+        width: 85% !important;
+        margin-left: 10%;
+    }
+
+    .success-header {
+        margin-top: 6%;
+        margin-left: 10%;
+    }
+
+    .success-point {
+        margin-top: 10%;
+        text-transform: capitalize;
+        font-family: demo !important;
+        color: black;
+        font-weight: bold;
+        text-shadow: 3px 3px 3px wheat;
+
+    }
+
+    @font-face {
+        font-family: demo;
+        src: url("../layout/designer_2/Designer.otf");
+    }
+
+    .icon-size {
+        font-size: 25px;
+        line-height: 60px;
+        font-style: italic;
+    }
+
+    .icon-dec {
+        font-size: 20px;
+        text-transform: capitalize;
+        font-family: 'Times New Roman', Times, serif;
+        width: 50% !important;
+        line-height: 40px;
+        color: black;
+        opacity: 0.7;
+
+    }
+
+
+
+
+    /* home second part css end  */
+
+    /* slider part start */
+    .swiper {
+        width: 90%;
+        height: 100%;
+        margin-top: 70px;
+        display: flex;
+
+    }
+
+    .swiper-slide {
+        text-align: center;
+        font-size: 18px;
+        background: #fff;
+
+        /* Center slide text vertically */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .swiper-slide img {
+        display: block;
+        width: 100%;
+        height: 200px;
+        object-fit: cover;
+
+    }
+
+    .pro-our {
+        margin-top: 10%;
+        text-transform: capitalize;
+        font-family: um !important;
+        color: black;
+        font-weight: bold;
+        text-shadow: 3px 3px 3px wheat;
+    }
+
+    @font-face {
+        font-family: um;
+        src: url("../layout/designer_2/Designer.otf");
+    }
+
+    /* slider part end */
+}
+
+@media only screen and (min-width:1200px) {
+    nav {
+        background-color: black
+    }
+
+    .nav-link {
+        color: white !important;
+        font-size: 18px !important;
+        opacity: 0.7;
+    }
+
+    .nav-link:hover {
+        color: aqua !important;
+        border-radius: 20px;
+        font-weight: bold;
+        text-shadow: 4px 4px 4px orange;
+    }
+
+    .navbar-brand {
+        color: red !important;
+        font-family: yes !important;
+        font-weight: bold;
+        font-size: 30px;
+        text-shadow: rgb(0, 170, 255) 1px 0 19px !important;
+    }
+
+    @font-face {
+        font-family: yes;
+        src: url("../layout/godofwar/GODOFWAR.TTF");
+    }
+
+    .dropdown:hover .dropdown-menu {
+        display: block !important;
+    }
+
+    .dropdown-menu {
+        background-color: whitesmoke;
+        border-radius: 15px;
+    }
+
+    .dropdown-item {
+        color: black !important;
+        font-size: 15px !important;
+        text-align: center;
+        font-size: 15px;
+    }
+
+    .nav-item {
+        margin-left: 8%;
+    }
+
+    .dropdown-item:hover {
+        background-color: pink;
+        color: red !important;
+        border-radius: 10px;
+    }
+
+    .navbar-nav {
+        margin-left: 21%;
+    }
+
+    .icon {
+        margin-left: 120px !important;
+        font-size: 32px;
+    }
+
+    .hed-i:hover {
+        color: aqua !important;
+        font-weight: bold;
+    }
+
+    /* home slider css */
+    .home-image {
+        background-image: url(https://www.theimagecompany.in/uploads/theimagecompanycom/Sarathi1.jpg);
+        width: 100%;
+        height: 615px;
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        margin-top: 80px;
+        position: relative;
+        background-color: rgba(0, 0, 0, 0.4);
+        background-blend-mode: darken;
+    }
+
+    .App {
+        text-align: center;
+    }
+
+    .App-header {
+        min-height: 92vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        font-size: 48px;
+        color: tomato;
+        font-weight: bold;
+    }
+
+    /* home slider css end */
+
+    /* last arrow css start */
+    .arrow {
+        background-color: yellow;
+        height: 30px;
+        width: 30px;
+        position: absolute;
+        bottom: 10px;
+        right: 25px;
+    }
+
+    /* last arrow css end */
+
+
+    /* home second part css start */
+    .second-part {
+        margin-top: 7%;
+    }
+
+    .second-part-image {
+
+        height: 450px !important;
+        width: 85% !important;
+        margin-left: 10%;
+    }
+
+    .success-header {
+        margin-top: 6%;
+        margin-left: 10%;
+    }
+
+    .success-point {
+        margin-top: 10%;
+        text-transform: capitalize;
+        font-family: demo !important;
+        color: black;
+        font-weight: bold;
+        text-shadow: 3px 3px 3px wheat;
+
+    }
+
+    @font-face {
+        font-family: demo;
+        src: url("../layout/designer_2/Designer.otf");
+    }
+
+    .icon-size {
+        font-size: 25px;
+        line-height: 60px;
+        font-style: italic;
+    }
+
+    .icon-dec {
+        font-size: 23px;
+        text-transform: capitalize;
+        font-family: 'Times New Roman', Times, serif;
+        width: 50% !important;
+        line-height: 40px;
+        color: black;
+        opacity: 0.7;
+
+    }
+
+
+
+
+    /* home second part css end  */
+
+
+    /* slider part start */
+    .swiper {
+        width: 90%;
+        height: 100%;
+        margin-top: 70px;
+        display: flex;
+
+    }
+
+    .swiper-slide {
+        text-align: center;
+        font-size: 18px;
+        background: #fff;
+
+        /* Center slide text vertically */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .swiper-slide img {
+        display: block;
+        width: 100%;
+        height: 200px;
+        object-fit: cover;
+
+    }
+
+    .pro-our {
+        margin-top: 10%;
+        text-transform: capitalize;
+        font-family: um !important;
+        color: black;
+        font-weight: bold;
+        text-shadow: 3px 3px 3px wheat;
+    }
+
+    @font-face {
+        font-family: um;
+        src: url("../layout/designer_2/Designer.otf");
+    }
+
+    /* slider part end */
+}
